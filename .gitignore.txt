@@ -1,0 +1,5 @@
+udemy_flask\_pycache_\
+udemy_flask\venv\
+sqlalchemy\_pycache_\
+G:\flask-rest-api\sqlalchemy\
+*.pyc
